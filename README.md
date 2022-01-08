@@ -19,7 +19,7 @@ The Detection System will not work if proper installation is not done.
 * **Ensure the `python -m pip install --use-feature=2020-resolver .` run successfully** and 
     You can use the `python object_detection/builders/model_builder_tf2_test.py` to test if your installation was complete in the models/research directory.
 
-* **If your intallation was succefully and the test script run successfully you can now run the new_webcam.py script for the FaceMask Detection System to work**
+* **If your intallation was successful and the test script run successfully you can now run the new_webcam.py script for the FaceMask Detection System to work**
   * Make sure you have activated your Conda virtual environment using `conda activate tensorflow` then run the detection script using
   `python new_webcam.py`
 
