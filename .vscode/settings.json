@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:/Users/Crux/anaconda3/envs/tensorflow/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.shell.windows": "C:/Windows/System32/cmd.exe",
+    "git.ignoreLimitWarning": true,
+}

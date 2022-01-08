@@ -1,0 +1,12 @@
+item { 
+	name:'with mask'
+	id:1
+}
+item { 
+	name:'no mask'
+	id:2
+}
+item { 
+	name:'incorrect mask'
+	id:3
+}
